@@ -7,7 +7,7 @@ const projects = [
         image: 'projects/TodoApp.png',
         tags: ['JavaScript', 'HTML', 'CSS', 'Java'],
         demoUrl:"https://todo-app-demo.com",
-        repoUrl:"https://github.com/yourusername/todo-app"
+        repoUrl:"https://github.com/Motunrayo0129/Todo-Frontend"
         },
 
         {
@@ -25,7 +25,7 @@ const projects = [
             image: 'projects/KongaWebsite.png',
             tags: ['React', 'Django', 'Python', 'MySQL'],
             demoUrl:"https://ecommerce-website-demo.com",
-            repoUrl:"https://github.com/yourusername/ecommerce-website"
+            repoUrl:"https://github.com/Motunrayo0129/Tuntun_Store"
         }
 ]
 
